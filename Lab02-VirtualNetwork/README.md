@@ -121,6 +121,11 @@ terraform plan
 ```bash
 terraform apply
 ```
+## Affichage console
+
+```bash
+terraform output
+```
 
 ## Suppression
 
